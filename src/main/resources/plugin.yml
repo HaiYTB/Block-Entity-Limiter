@@ -1,0 +1,6 @@
+name: BlockEntityLimiter
+author: HaiYTB
+main: com.haiytb.blockentitylimiter.Main
+version: 1.0.0
+api-version: 1.13
+description: A plugin that limits the number of blocks or entity in each chunk.
