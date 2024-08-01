@@ -19,7 +19,7 @@ Message: "You have reached the limit of this block or entity in this chunk."
 Install maven
 Open terminal and...
 ```
-git clone https://github.com/HaiYTB/Block-Entity-Limiter/ && cd Block-Entity-Limiter
+git clone https://github.com/HaiYTB/Block-Entity-Limiter && cd Block-Entity-Limiter
 ```
 
 **Build command:**
